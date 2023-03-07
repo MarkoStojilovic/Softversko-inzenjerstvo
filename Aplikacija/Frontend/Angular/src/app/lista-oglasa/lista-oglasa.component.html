@@ -1,0 +1,192 @@
+
+<!--Oglas modal-->
+ <ng-template #Oglas let-modal >
+    <div class="container modal-content-Oglas border-0 text-start">
+        <div class="modal-header text-center justify-content-around">
+            <img  class="img-fluid img-responsive modal-logo3"src="assets/img/minProfile_logo.png" alt="...">
+            <h3 class="modal-title">Oglas</h3>  
+          <button  (click)="close(Oglas)" type="button" class="close-btn btn-lg ms-5 px-2 py-0" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class=" text-center table-profiles modal-body-CV border-0 m-0" > 
+          <table class="table tabela-profil ">  
+            <tr>
+              <td>
+                <div> 
+                  <h3 class="text-decoration-underline mb-5">{{SelektovaniOglas.naziv}}</h3>
+              </div>
+              </td> 
+            </tr>
+            <tr>       
+            <div class="mb-5 mt-0" >
+              <p class="h4">Opis:</p>
+              <label>{{SelektovaniOglas.opis}}</label> 
+            </div>
+            <div>  
+            </div>
+            <div class="border-top">
+              <div class="flex d-flex justify-content-center" > 
+                 <div>
+                  <label class="h5 m-0">🌎Lokacija:</label>      
+                  <label class="ms-1" style="font-size: large;">{{SelektovaniOglas.lokacija}}</label>
+                  <br>
+                  <label class="h5">💶Plata:</label>
+                  <label class="ms-1 mt-2" style="font-size: large;">{{SelektovaniOglas.plata}}€</label>
+                  <br>               
+                <label class="h5 m-0 mt-2">🏠Rad od kuće:</label>
+                <label *ngIf="SelektovaniOglas.remote_work.toLowerCase() =='da'" class="m-0">✔</label>
+                <label *ngIf="SelektovaniOglas.remote_work.toLowerCase() =='ne'" class="m-0">❌</label>
+                <br>
+                <label class="h5 mt-2">💻Tehnologija:</label>
+                <label class="ms-1" style="font-size: large;"> {{SelektovaniOglas.tehnologija }}</label>
+                  </div>
+                 </div>               
+                <div>
+              </div>       
+              <div class="d-flex justify-content-around">  
+            <div>
+              <h5 class="mt-5">🕒Vreme oglašavanja</h5>
+              <p>  {{SelektovaniOglas.vreme }}</p>
+
+              <div *ngIf="SelektovaniOglas.naziv_firme ===null" >
+                <div class="h4"> Objavio: {{SelektovaniOglas.ime}} {{SelektovaniOglas.prezime}}</div></div>
+               <div *ngIf="SelektovaniOglas.ime === null">
+                <div class="h4"> Objavio: {{SelektovaniOglas.naziv_firme}}</div> </div>
+              
+            </div>
+          </div>
+        </div>
+            <div>        
+            </div>         
+          </table>
+        <div class="modal-footer modal-footer-Cv  mt-5 d-flex d-flex justify-content-center">
+          <button type="button" *ngIf="TipView == 'Radnik'" class="btn btn-success my-4 btn-lg" (click)="AplicirajOglas()">Apliciraj</button>
+          <button class="btn btn-delete my-4 btn-lg" *ngIf="TipView == 'Admin'" (click)="ObrisiOglas()">Obrisi oglas</button>
+        </div>
+      </div>
+    </div>
+  </ng-template>
+
+
+
+<header style="margin-top: 0;" class="shadow-lg  masthead masthead-oglasi">
+    <div class="logo-container">
+        <a><img  class="img-fluid img-responsive"src="assets/img/oglasi-logo.png" alt="..."> </a><br>
+      </div>
+  
+        <p class="text-center h1 font-lexend">Oglasna tabla</p>
+        <div class= "flex-wrap d-flex d-flex justify-content-center px-5 pb-3"><!--style="background-color: red;"-->
+        <div>
+  
+            <input [(ngModel)]="OglasForm.kljucna_rec" class= "filter_inputs mx-2 my-1 "type="search" id="Kword" name="Kword" placeholder="Ključne reči">
+            <input [(ngModel)]="OglasForm.lokacija" class= "filter_inputs mx-2 my-1 "type="text" id="Loc" name="Loc" placeholder="Lokacija">
+            <select [(ngModel)]="OglasForm.tehnologija" class= "filter_inputs mx-2 my-1"placeholder="Ključne reči"> Izmeni ime
+                <option value="" hidden selected >Tehnologija</option>
+                <option value="">Izaberi</option>
+                <option value="c">C</option>
+                <option value="c#">C#</option>
+                <option value="c++">C++</option>
+                <option value="Java">Java</option>
+                <option value="React">React</option>
+                <option value="JavaScript">JavaScript</option>
+                <option value="Angular">Angular</option>
+                <option value="TypeScript">TypeScript</option>              
+                <option value="PHP">PHP</option>
+                <option value="Vue">Vue</option>
+                <option value="Python">Python</option>  
+                <option value="Go">Go</option> 
+                <option value="Swift">Swift</option> 
+                <option value="Ruby">Ruby</option> 
+                <option value="Perl">Perl</option> 
+                <option value="SQL">SQL</option> 
+                <option value="HTML">HTML</option> 
+                <option value="CSS">CSS</option> 
+                <option value="Kotlin">Kotlin</option> 
+                <option value="Rust">Rust</option> 
+                <option value="Haskell">Haskell</option>
+            </select>
+            </div>           
+            <div>
+  
+                <input [(ngModel)]="OglasForm.min_plata" class= "filter_inputs mx-2 my-1"type="number" id="PocCena" name="PocCena" placeholder="Pocetak opsega plate (€)">
+                <input [(ngModel)]="OglasForm.max_plata" class= "filter_inputs mx-2 my-1"type="number" id="KrajCena" name="KrajCena" placeholder="Kraj opsega plate (€)">
+                <div class="pt-3">
+                    
+                    <select [(ngModel)]="OglasForm.remote_work" class= "filter_inputs mx-2 my-1"placeholder="Ključne reči"> Izmeni ime
+                        <option value="" hidden selected >Remote work</option>
+                        <option value="">Izaberi</option>
+                        <option value="Da">Da</option>
+                        <option value="Ne">Ne</option>   
+                    </select>
+      
+            </div>
+        </div>
+    </div>
+  
+        <span class= "flex-wrap d-flex d-flex justify-content-center pb-3 mt-2"><button class="btn btn-dark  font-lexend btn-search btn-search-oglasi" (click)="Pretrazi()">Pretraži</button></span>    
+     
+      </header>
+
+
+
+      <div *ngIf="TipView == 'Admin'" class="d-flex justify-content-center" style="background-color: #002A32; height:100px;"><div class="pt-4 px-4 d-flex justify-content-center pb-3 user-counter m-2"><fa-icon [icon]="faFileLines" class="fa-xl p-1 me-3 mt-0 Icon-Users-Border"></fa-icon><h3 class = "pt-1">Ukupan broj oglasa: {{brOglasa}}</h3></div></div>
+
+      <div *ngIf="filtriraniOglasi >= 0" class="d-flex justify-content-center" style="background-color: #002A32; height:65px;"><div class=" px-4 d-flex justify-content-center pb-3 user-counter m-2"><fa-icon [icon]="faFileLines" class="fa-lg p-1 me-3 mt-1 pb-4 Icon-Users-Border"></fa-icon><h4 class = "pt-2">Ukupan broj pronađenih oglasa: {{filtriraniOglasi}}</h4></div></div>
+
+
+<!--Lista-->
+<div class=" user_list container px-0 mt-3 min-vh-100  font-lexend w-100">
+<table class="table table-striped table-responsive font-lexend oglasi-list table-oglasi" [ngModel]="izabrano">
+<div  *ngIf="isEdited == false">
+    <tr *ngFor="let o of oglasi" (click)="openOglas(Oglas,o)" > 
+    <td style="width:100rem">
+     <div *ngIf="o.naziv_firme ===null" >
+      <div class="h4"> Objavio: {{o.ime}} {{o.prezime}}</div></div>
+     <div *ngIf="o.ime === null">
+      <div class="h4"> Objavio: {{o.naziv_firme}}</div> </div>
+      <p class="h6">{{o.naziv}}<br> </p>
+      <div class="pe-5"> {{o.opis}}
+      </div>
+      <div class=" mt-2 p-1">
+          <span class ="div-tech ">{{o.tehnologija}}</span>               
+      </div>
+      <div class="mt-2" *ngIf="o.remote_work === 'Da'">Rad od kuće ✔</div>
+      <div class="mt-2" *ngIf="o.remote_work === 'da'">Rad od kuće ✔</div> 
+      <div class="mt-2" *ngIf="o.remote_work === 'Ne'">Rad od kuće ❌</div> 
+      <div class="mt-2" *ngIf="o.remote_work === 'ne'">Rad od kuće ❌</div>   
+
+      <div>🌎 {{o.lokacija}}</div>
+      <div>💶 {{o.plata}}</div>      
+      <div>🕒 {{o.vreme}}</div>    
+
+  </td>               
+</tr>
+</div>
+<div *ngIf="isEdited == true">
+<tr *ngFor="let o of pom" (click)="openOglas(Oglas,o)" > 
+    <td style="width:100rem">
+      <div *ngIf="o.naziv_firme ===null" >
+        <div class="h4"> Objavio: {{o.ime}} {{o.prezime}}</div></div>
+       <div *ngIf="o.ime === null">
+        <div class="h4"> Objavio: {{o.naziv_firme}}</div> </div> 
+      <p class="h6">{{o.naziv}}<br> </p>
+      <div class="pe-5"> {{o.opis}}
+      </div>
+      <div class=" mt-2 p-1">
+          <span class ="div-tech ">{{o.tehnologija}}</span>               
+      </div>
+      <div class="mt-2" *ngIf="o.remote_work === 'Da'">Rad od kuće ✔</div>
+      <div class="mt-2" *ngIf="o.remote_work === 'da'">Rad od kuće ✔</div> 
+      <div class="mt-2" *ngIf="o.remote_work === 'Ne'">Rad od kuće ❌</div> 
+      <div class="mt-2" *ngIf="o.remote_work === 'ne'">Rad od kuće ❌</div>   
+
+      <div>🌎 {{o.lokacija}}</div>
+      <div>💶 {{o.plata}}</div>      
+      <div>🕒 {{o.vreme}}</div>    
+
+  </td>               
+</tr> 
+</div>     
+</table>
+</div>

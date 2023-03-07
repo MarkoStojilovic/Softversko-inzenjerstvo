@@ -1,0 +1,215 @@
+
+    <ng-template class=" modal modal-content  modal-content-custom border-0 modal-dialog-scrollable border-100" #test>
+        <div class="modal-header justify-content-center custom-modal-oglas ">
+            <h3 class="modal-title text-center ">Oglas:</h3>
+            <button type="button" class="btn-close border-0 btn-sm ms-5 p-1" data-dismiss="modal" aria-label="Close" (click)="close(ModalOglas)"></button>
+        </div>
+        <div class="modal-body text-center custom-modal-oglas">
+       
+            <div class="container-fluid py-5" >
+                <form class="form-group">
+                    <div class="select">
+                    <select class="form-control" [(ngModel)]="izabrano" name="izabrano">
+                        <option *ngFor="let o of oglasi" [ngValue]="o">
+                            {{ o.naziv }}
+                        </option>
+                    </select>
+                </div>
+            
+                </form>        
+          </div>
+        </div>
+        <div class="modal-footer d-flex d-flex justify-content-center border-0 custom-modal-oglas">       
+                <div class="form-group">
+                    <button class="btn btn-info btn-lg btn-block" (click)="close(test)" >Potvrdi</button>
+               </div>         
+        </div>
+    </ng-template> 
+        <ng-template class=" modal modal-content  modal-content-custom border-0 modal-dialog-scrollable border-100" #ModalOglas>
+            <div class="modal-header justify-content-center custom-modal-oglas ">
+                <h3 class="modal-title text-center ">Oglas:</h3>
+                <button type="button" class="btn-close border-0 btn-sm ms-5 p-1" data-dismiss="modal" aria-label="Close" (click)="close(ModalOglas)"></button>
+            </div>
+            <div class="modal-body text-center custom-modal-oglas">
+                <label>Naziv:</label>
+                <div class="container-fluid">{{izabrano.naziv}}</div>
+                <label>Tehnologije:</label>
+                <div class="container-fluid">{{izabrano.tehnologija}}</div>
+                <label>Opis:</label>
+                <div class="container-fluid">{{izabrano.opis}}</div>
+                <label>Plata:</label>
+                <div class="container-fluid">{{izabrano.plata}}</div>
+                <label>Remote work:</label>
+                <div class="container-fluid">{{izabrano.remote_work}}</div>
+                <label>Lokacija:</label>
+                <div class="container-fluid">{{izabrano.lokacija}}</div>
+                
+            </div>
+            <!-- <div class="modal-footer d-flex d-flex justify-content-center border-0 custom-modal-oglas"> 
+                <button type="button" class="btn-lg" data-dismiss="modal" aria-label="Close">Ovde treba apliciraj ako je radnik</button>
+            </div> -->
+        </ng-template> 
+       
+     <!-- <ng-template #prikazOglasa let-modal>
+        <div class="modal-content  modal-content-custom border-0">
+            <div class="modal-header text-center justify-content-around">
+                <h5 class="modal-title  ">Vas oglas</h5>  
+              <button type="button" class="close border-0 btn-lg ms-5 p-2 py-0" data-dismiss="modal" aria-label="Close" (click)="close(prikazOglasa)">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body text-center">
+                <label>Naslov:</label>
+                <div class="container-fluid">{{izabrano.naslov}}</div>
+                <label>Tehnologije:</label>
+                <div class="container-fluid">{{izabrano.tehnologija}}</div>
+                <label>Opis:</label>
+                <div class="container-fluid">{{izabrano.opis}}</div>
+                <label>Plata:</label>
+                <div class="container-fluid">{{izabrano.plata}}</div>
+                <label>Remote work:</label>
+                <div class="container-fluid">{{izabrano.remote_work}}</div>
+                <label>Lokacija:</label>
+                <div class="container-fluid">{{izabrano.lokacija}}</div>
+            </div>
+            <div class="modal-footer d-flex d-flex justify-content-center border-0">
+              <button type="button" class="btn btn-close" (click)="close(prikazOglasa)"></button>
+            </div>
+          </div>    
+    </ng-template> -->
+
+<div *ngIf="UserType == false"><app-index></app-index></div>
+
+    
+    <div *ngIf="dodajOglas==false && UserType == true">
+        <div class="row">
+            <div class=" text-end btn-position">
+                <button *ngIf="EditMode == false" class="btn-success" (click) = "EditText()">Izmeni oglas</button>
+                <button *ngIf="EditMode == true" class="btn-success" (click) = "SaveText()">Sacuvaj izmene</button>  
+                <button  class="btn-danger" (click) = "Obrisi()">Obrisi oglas</button>   
+                <button class="btn-success" (click) = "otkaziDodavanje()">Otkazi</button>  
+            </div>
+        </div> 
+        <div class="p-3 mx-5 font-lexend text-primary Oglas-design text-center"  id="contCv"> <!--container-fluid-->
+            
+                <div>
+                    <h5  *ngIf="ErrorState == 1">Unesite sve podatke !</h5>         
+                    <div class="row p-5 justify-content-center" >
+                        <h2 class="text-decoration-underline">Naziv: </h2>    
+                        <p *ngIf="EditMode != true">{{izabrano.naziv}}<p></p>
+                        <input class="mx-2"*ngIf="EditMode != false" type="text" value="{{izabrano.naziv}}" id="Naziv"  [(ngModel)]="izabrano.naziv">                    
+                    </div>
+                    <div class="row p-5">
+                        <h2 class="text-decoration-underline">OPIS:</h2>
+                        <p *ngIf="EditMode != true">{{izabrano.opis}}<p>
+                            <form [formGroup]="FormaOpis">
+                                <angular-editor id="OpisEditor" *ngIf="EditMode != false" [(ngModel)]="izabrano.opis" formControlName='Opis'></angular-editor>
+                        </form>
+                    </div>
+                   
+                </div>
+            
+            <div class="row text-start Oglas-info-footer" >
+                <div class="row mb-1">
+                    <h4 class="text-decoration-underline">Tehnologija</h4>
+                    <p *ngIf="EditMode != true">{{izabrano.tehnologija}}<p>
+                    
+                            <input class="mx-2"*ngIf="EditMode != false" type="text" value="{{izabrano.tehnologija}}" id="Tehnologije"  [(ngModel)]="izabrano.tehnologija">          
+                    
+                </div>
+                <div class="text-start">
+                    <div class="row mb-1">
+                        <h4 class="text-decoration-underline">Lokacija🌎</h4>
+                        <p *ngIf="EditMode == false">{{izabrano.lokacija}}</p>
+                            <input  class="ms-3" *ngIf="EditMode != false" type="text" value="{{izabrano.lokacija}}" [(ngModel)]="izabrano.lokacija">
+                               
+                    </div>
+                    <div class="row mb-1">
+                        <h4 class="text-decoration-underline">Remote work</h4>
+                        <!--<p *ngIf="EditMode != true">{{izabrano.remote_work}}</p>-->
+                        <p *ngIf="izabrano.remote_work.toLowerCase() == 'ne' && EditMode != true">❌</p>
+                        <p *ngIf="izabrano.remote_work.toLowerCase() == 'da'&& EditMode != true">✔</p>
+                       <div *ngIf="EditMode != false">
+                     <!-- <div class="container-fluid py-5" >--> 
+                        <form class="form-group">
+                            <div class="select">
+                                <select class="form-control" [(ngModel)]="rmwork" name="rmwork">
+                                    <option value="" hidden selected>Remote work?</option>
+                                    <option value="da">DA</option>
+                                    <option value="ne">NE</option>
+                                </select>
+                            </div>
+                        </form>        
+                        </div>
+                    <!--</div>--> 
+                    </div>     
+                    <div class="row mb-1">
+                        <h4 class="text-decoration-underline">Plata</h4>
+                        <p *ngIf="EditMode != true">{{izabrano.plata}}€</p>
+                        <input class="mx-2"*ngIf="EditMode != false" type="number" value="{{izabrano.plata}}" id="Plata"  [(ngModel)]="izabrano.plata">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="dodajOglas==true && UserType == true">
+        <div class="p-3 mx-5 font-lexend text-primary Oglas-design text-center"  id="contCv"> <!--container-fluid-->
+            <div class="row">
+                <div class=" text-end btn-position">
+                    <button class="btn-success" (click) = "sacuvajOglas()">Sacuvaj oglas</button>   
+                    <button class="btn-success" (click) = "otkaziDodavanje()">Otkazi</button>    
+                </div>
+            </div> 
+                <div>
+                    <h5  *ngIf="ErrorState == 1">Unesite sve podatke !</h5>         
+                    <div class="row p-5 justify-content-center" >
+                        <h2 class="text-decoration-underline">Naziv: </h2>    
+                        <input class="mx-2 text-center" type="text" value="{{izabrano.naziv}}" id="Naziv"  [(ngModel)]="izabrano.naziv">                     
+                    </div>
+                    <div class="row p-5">
+                        <h2 class="text-decoration-underline">OPIS:</h2>
+                        <form [formGroup]="FormaOpis">
+                                <angular-editor id="OpisEditor" [(ngModel)]="izabrano.opis" formControlName='Opis'></angular-editor>
+                        </form>
+                    </div>
+                   
+                </div>
+            
+            <div class="row text-start Oglas-info-footer" >
+                <div class="row mb-1">
+                    <h4 class="text-decoration-underline">Tehnologija</h4>
+                            <input class="mx-2" type="text" value="{{izabrano.tehnologija}}" id="Tehnologije"  [(ngModel)]="izabrano.tehnologija">                              
+                </div>
+                <div class="text-start">
+                    <div class="row mb-1">
+                        <h4 class="text-decoration-underline">Lokacija🌎</h4>
+                            <input  class="mx-1" type="text" value="{{izabrano.lokacija}}" [(ngModel)]="izabrano.lokacija">                              
+                    </div>
+                    <div class="row mb-1">
+                        <h4 class="text-decoration-underline">Remote work</h4>
+                       <div class="container-fluid py-5" >
+                        <form class="form-group">
+                            <div class="select">
+                                <select class="form-control" [(ngModel)]="rmwork" name="rmwork">
+                                    <option value="" hidden selected>Remote work?</option>
+                                    <option value="da">DA</option>
+                                    <option value="ne">NE</option>
+                                </select>
+                            </div>
+                        
+                        </form>        
+                        </div>
+                    </div>     
+                    <div class="row mb-1">
+                        <h4 class="text-decoration-underline">Plata</h4>
+                        <input class="mx-2" type="number" value="{{izabrano.plata}}" id="Plata"  [(ngModel)]="izabrano.plata">
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="row">
+                <div class=" text-end btn-position">
+                    <button class="btn-success" (click) = "sacuvajOglas()">Sacuvaj oglas</button>       
+                </div>
+            </div>  -->
+        </div>
+    </div>

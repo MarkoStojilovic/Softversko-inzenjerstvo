@@ -1,0 +1,41 @@
+.custom-modal-oglas
+{
+    background-color: #002A32   ;
+    color: white;
+}
+
+button
+{
+background-color: #002A32;
+color: #F1A208 ;
+border-style: solid;
+border-color: #F1A208 ;
+border-width: 2px;
+}
+.Oglas-design
+{
+    background-color: #002A32 !important;
+    margin-left: 15% !important;
+    margin-right: 15% !important;
+    
+}
+
+.Oglas-info-footer
+{
+    border-top: 1px solid #F1A208 ;
+    padding-top: 2rem;
+    border-width: 2px;
+}
+.btn-position
+{
+    padding-right: 3.7rem !important;
+}
+
+.Oglas-info-footer input
+{
+    max-width: 12rem !important;
+}
+input
+{
+    max-width: 50rem
+}

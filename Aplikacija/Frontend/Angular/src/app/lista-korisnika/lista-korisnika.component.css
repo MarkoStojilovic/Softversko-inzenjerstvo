@@ -1,0 +1,139 @@
+.tabela-profil{
+    color: #F1A208;
+    text-align: center;
+}
+.modal-footer
+{
+    border-color:  #F1A208 !important;
+}
+
+.modal-content-CV
+{
+    
+    background-color: #002A32   ;
+    width: 50rem;
+
+    margin:0 auto;
+    display:table;
+    position: absolute;
+    left: 0;
+    right:100%;
+    top: 50%; 
+    border:1px solid;
+    -webkit-transform:translateX(-20%);
+    -moz-transform:translateX(-20%);
+    -ms-transform:translateX(-20%);
+    -o-transform:translateX(-20%);
+    transform:translateX(-20%);  
+}
+
+
+.modal-content-CV p
+{
+    
+    border-color:  #F1A208 !important;
+    border-style: solid;
+    margin: 0 100px ;
+
+}
+
+.modal-content-CV-side-Div
+{
+    border-top: 1px solid #F1A208 ;
+}
+
+
+
+.modal-content-CV  button
+{
+background-color: #002A32 !important;
+color: #F1A208 ;
+border-style: solid;
+border-color: #F1A208 ;
+border-width: 2px;
+}
+
+.modal-content-CV  button:hover
+{
+  background-color: #F1A208 !important;
+  color: #002A32 ;
+  border-style: solid;
+  border-color: #002A32 ;
+  border-width: 2px;
+
+}
+
+.modal-content-CV  button:focus
+{
+  background-color: #002A32 !important;
+  color: #F1A208 ;
+  border-style: solid;
+  border-color: #F1A208 ;
+  border-width: 2px;
+  box-shadow: 0 0 8px #F1A208;
+}
+
+
+.modal-footer-Cv button
+{
+  background-color: #002A32 !important;
+  color: #F1A208;
+  width: 25rem;
+}
+
+.modal-footer-Cv button:hover
+{
+  background-color: #F1A208 !important;
+  color: #002A32;
+
+}
+
+
+
+@media screen and (max-width: 1150px) {
+    .modal-content-CV {
+      width: 40rem;
+    }
+  }
+
+  @media screen and (max-width: 860px) {
+    .modal-content-CV {
+      width: 32rem;
+    }
+  }
+
+
+  @media screen and (max-width: 600px) {
+    .modal-content-CV {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 290px) {
+    .modal-content-CV {
+      width: 100%;
+      text-align: start;
+      margin: 0 !important;
+    }
+    .modal-body-CV p
+    {
+        margin: 0 !important;
+    }
+  }
+
+ .Icon-Users-Border
+ {
+  border-style: solid;
+  border-color: black ;
+  border-width: 3px;
+ }
+
+ .user-counter
+ {
+   background-color: #44AF69;
+  border-style: solid;
+  border-color: black ;
+  border-width: 3px;
+  color: black;
+ }
+  

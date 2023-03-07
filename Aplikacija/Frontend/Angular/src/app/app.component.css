@@ -1,0 +1,46 @@
+.dropdown-profil label
+{
+border-style: solid;
+  border-color: #002A32;
+  border-width: 2px;
+  color: #F1A208 ;
+}
+
+.Select_grad {
+  border-color: #F1A208;
+  border-width: 1px;
+  color: white  !important;
+  background-color:#002A32;
+  width: 13rem;
+}
+
+.dropdown-profil input
+{
+  border-color: #F1A208;
+  border-width: 1px;
+  color: white  !important;
+  background-color:#002A32;
+  margin-bottom: 1rem;
+  
+}
+
+.dropdown-profil button
+{
+margin: 2px 2px;
+}
+
+@media only screen and (max-width: 1550px) {
+  .MoveProfile {
+    margin-right: 5rem;
+  }
+}
+@media only screen and (min-width: 1550px ) {
+  .MoveProfile {
+    margin-right: 5rem;
+  }
+}
+@media only screen and (min-width: 1671px  ) {
+  .MoveProfile {
+    margin-right: 5rem !important;
+  }
+}

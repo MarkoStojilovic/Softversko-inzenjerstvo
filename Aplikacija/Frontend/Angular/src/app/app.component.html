@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <meta name="theme-color" content="white">
+        <title>Index</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        
+    </head>
+    <body>
+
+
+     
+      <!--Login modal-->
+      <ng-template #Login let-modal>
+        <div class="modal-content  modal-content-custom border-0">
+          <div class="modal-header text-center justify-content-around">
+              <img  class="img-fluid img-responsive modal-logo2"src="assets/img/LogIn_logo.png" alt="...">
+              <h5 class="modal-title  ">Prijavi se</h5>  
+            <button type="button" class="close border-0 btn-lg ms-5 p-2 py-0" data-dismiss="modal" aria-label="Close" (click)="close(Login)">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body text-center">
+          
+          <div class="mt-2 mb-2">
+             <label for="1" >Korisničko ime</label><br>         
+             <input type="text" #Korisnicko_ime (keydown.enter)="User_Login(Korisnicko_ime.value,pass.value,Login)"><br> 
+
+             <label for="1" >Sifra</label><br>         
+             <input type="password" #pass (keydown.enter)="User_Login(Korisnicko_ime.value,pass.value,Login)"><br>         
+          </div>
+          <label for="1"  *ngIf="LoginError === true" class="text-danger font-lexend"> Uneta je pogrešna lozinka ili korisničko ime!</label>
+          </div>
+          <div class="modal-footer d-flex d-flex justify-content-center border-0">
+            <button type="button" class="btn btn-success" (click)="User_Login(Korisnicko_ime.value,pass.value,Login)" (keydown.enter)="User_Login(Korisnicko_ime.value,pass.value,Login)">Prijavi se</button>
+          </div>
+          <div class="text-center mb-3" style="font-size: small;" >
+            <a class="text-white text-decoration-underline" style="cursor: pointer;" (click)="close(Login)" (click)="open(Register)">Nemate nalog ? Kliknite ovde da se registrujete.</a>
+        </div>
+        </div>    
+  </ng-template>
+  
+
+<!--Register modal-->
+  <ng-template #Register let-modal>
+    <div class=" modal modal-content  modal-content-custom border-0">
+        <div class="modal-header justify-content-around">
+         <img  class="img-fluid img-responsive modal-logo "src="assets/img/Register_logo.png" alt="...">
+          <h5 class="modal-title text-center">Registracija</h5>
+          <button type="button" class="close border-0 btn-lg ms-5 p-2 py-0" data-dismiss="modal" aria-label="Close" (click)="close(Register)">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body text-center">
+        
+        <table class="text-start table-tip ">
+            <tr>
+                <td class="p-2">
+                    <input class="form-check-input RadnikRadio" type="radio" id="0a" name="Tip" value="0" [(ngModel)]="Tip">
+                    <label for="0">Radnik</label><br>
+                </td>
+                
+
+                <td class="p-2">   
+                    <input  class="form-check-input" type="radio" id="0" name="Tip" value="1" [(ngModel)]="Tip"  > 
+                    <label for="2">Privatno lice</label><br>           
+                </td>
+
+                <td class="p-2">
+                    <input class="form-check-input"  type="radio" id="0" name="Tip" value="2"  [(ngModel)]="Tip">
+                    <label for="1">Firma</label><br>                        
+                </td>
+            </tr>
+        </table> 
+        <div class="mt-2 mb-2">
+            <div>
+            <label for="1">Korisničko ime</label><br>         
+            <input type="text"[(ngModel)]="RegisterForm.KorisnickoIme" ><br> 
+            </div>
+
+            <div *ngIf="Tip == 2">
+            <label for="1">Naziv</label><br>         
+            <input type="text" [(ngModel)]="RegisterForm.Naziv"><br> 
+            </div>
+
+            <div *ngIf="Tip != 2">
+            <label for="1"  >Ime</label><br>         
+            <input type="text"[(ngModel)]="RegisterForm.Ime"><br> 
+            </div>
+
+            <div *ngIf="Tip != 2">
+            <label for="1">Prezime</label><br>         
+            <input type="text" [(ngModel)]="RegisterForm.Prezime"><br> 
+            </div>
+        
+
+           <label for="1">Email</label><br>         
+           <input type="text" [(ngModel)]="RegisterForm.Email"><br> 
+
+           <label for="1">Lozinka</label><br>         
+           <input type="password"  [(ngModel)]="RegisterForm.Lozinka"><br> 
+           <label for="1">Potvrdite Lozinku</label><br>         
+           <input type="password" [(ngModel)]="RegisterForm.PotvrdaLozinka"><br> 
+
+           <label for="1">Grad</label><br>  
+           <select class= "Select_grad mx-2 my-1 p-0" placeholder="Ključne reči" style="color:#002A32"  [(ngModel)]="RegisterForm.Grad"><!--Izmeni ime-->
+            <option value="" hidden selected >Gradovi</option>
+            <option value="Beograd">Beograd</option>
+            <option value="Novi Sad">Novi Sad</option>
+            <option value="Niš">Niš</option>
+            <option value="Kragujevac">Kragujevac</option>
+            <option value="Priština">Priština</option>
+            <option value="Zrenjanin">Zrenjanin</option>
+            <option value="Pančevo">Pančevo</option>
+            <option value="Čačak">Čačak</option>
+            <option value="Kruševac">Kruševac</option>
+            <option value="Novi Pazar">Novi Pazar</option>
+            <option value="Smederevo">Smederevo</option>
+            <option value="Leskovac">Leskovac</option>
+            <option value="Valjevo">Valjevo</option>
+            <option value="Užice">Užice</option>
+            <option value="Vranje">Vranje</option>
+            <option value="Šabac">Šabac</option>
+            <option value="Sombor">Sombor</option>
+            <option value="Požarevac">Požarevac</option>
+            <option value="Pirot">Pirot</option>
+            <option value="Zaječar">Zaječar</option>
+            <option value="Kikinda">Kikinda</option>
+            <option value="Sremska">Sremska Mitrovica</option>
+            <option value="Jagodina">Jagodina</option>
+            <option value="Vršac">Vršac	</option>
+            <option value="Bor">Bor</option>
+            <option value="Prokuplje">Prokuplje</option>
+            <option value="Loznica">Loznica</option>
+        </select>          
+
+           <div *ngIf="Tip == 2">
+            <label for="1">Lokacija</label><br>         
+            <input type="text" [(ngModel)]="RegisterForm.Lokacija"><br> 
+           </div>
+
+        </div>
+        <label class="text-danger font-lexend" *ngIf="RegisterError == 2"> Uneta je pogrešna lozinka !</label>
+        <label class="text-danger font-lexend" *ngIf="RegisterError == 1"> Unet je pogrešan email !</label>
+        <label class="text-danger font-lexend" *ngIf="RegisterError == 0"> Niste izabrali vašu ulogu !</label>   
+        <label class="text-danger font-lexend" *ngIf="RegisterError == 3"> Popunite sve podatke !</label>   
+        </div>
+        <div class="modal-footer d-flex d-flex justify-content-center border-0"> 
+          <button type="button" class="btn btn-success m-0" (click)="CheckRegisterData(Register)">Registruj se</button>
+        </div>
+        <div class="text-center mb-3" style="font-size: small;" >
+            <a class="text-decoration-underline text-white" style="cursor: pointer;color: ivory;" (click)="close(Register)" (click)="open(Login)">Već ste registrovani? Kliknite ovde da se ulogujete.</a>
+        </div>
+      </div>
+
+ </ng-template>
+
+
+       <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-header ps-5">
+      <a (click)="getToPage('Index')" class="ms-5">  <img class="navbar-brand" src="assets/img/navbar-logo.svg" alt="..."> </a>
+      <div class=" container  justify-content-end MoveProfile ">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse"  aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" (click)="CollapseMenu()">
+              Menu
+              <i class="fas fa-bars ms-1"></i>
+          </button>
+         <div *ngIf="MenuState == true;" class="pb-0 mb-0 me-5"> <!---->
+            <ul class="navbar-nav text-uppercase ms-auto pt-4 py-lg-0">
+                <li class="nav-item pt-4 me-0"><a class="nav-link" (click)="getToPage('Lista korisnika')" style="cursor: pointer;">Lista korisnika</a></li>
+                <li class="nav-item pt-4"><a class="nav-link" (click)="getToPage('Lista oglasa')" style="cursor: pointer;">Oglasi</a></li>      
+                <li class="nav-item pt-4"><a class="nav-link" *ngIf="LoginStatus === false" (click)="open(Register)" style="cursor: pointer;" >Registruj se</a></li>
+                <li class="nav-item pt-4"><a class="nav-link" *ngIf="LoginStatus === false" (click)="open(Login)" style="cursor: pointer;" >Prijavi se</a></li>
+                <div *ngIf="LoginStatus == true" class="ms-5">
+                  <div class="col">
+                    <div ngbDropdown class="d-inline-block">
+                      <button type="button" class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>
+                        <img class="img-fluid img-responsive " *ngIf= "ImageLoad == true" [src]="createImgPath(User.imgPath)" alt="..."  style="width: 60px; height: 60px;">
+                        <img class="img-fluid img-responsive " *ngIf= "ImageLoad == false" src="https://vectorified.com/images/no-profile-picture-icon-14.png" alt="..."  style="width: 60px; height: 60px;">
+                      </button>
+                      <div ngbDropdownMenu aria-labelledby="dropdownBasic1" class="dropdown-profil">
+                        <table class="table table-bordered border-light text-center ">
+                          <tr>
+                            <td class="fit-content justify-content-center"> 
+                              <img class="img-fluid img-responsive " *ngIf= "ImageLoad == true" [src]="createImgPath(User.imgPath)" alt="...">
+                              <img class="img-fluid img-responsive " *ngIf= "ImageLoad == false" src="https://vectorified.com/images/no-profile-picture-icon-14.png" alt="...">
+                              <div class="ms-5 ps-4 p-0" style="width: 50%;" *ngIf=" EditProfile == true && EditPassword === false">
+                                <app-upload
+                                (onUploadFinished)="uploadFinished($event)">
+                              </app-upload>
+                            </div>
+                            </td>
+                          </tr>
+                          <tr >
+                            <td><label>Korisničko ime</label>
+                              <span>{{User.KorisnickoIme}}</span>
+                          </tr>
+                          <tr *ngIf=" User.tip == 'Radnik' || User.tip == 'Privatno lice' || User.tip == 'Admin'">
+                            <td><label>Ime: </label>
+                            <span *ngIf="EditProfile == false">{{User.Ime}}</span>
+                              <input *ngIf="EditProfile == true" type="text" [(ngModel)]="User.Ime">
+                            </td>
+                          </tr>
+                          <tr *ngIf=" User.tip == 'Radnik' || User.tip == 'Privatno lice'|| User.tip == 'Admin'" >
+                            <td><label>Prezime: </label>
+                              <span *ngIf="EditProfile == false">{{User.Prezime}}</span>
+                              <input *ngIf="EditProfile == true" type="text" [(ngModel)]="User.Prezime">
+                          </tr>
+                          <tr *ngIf=" User.tip == 'Firma'">
+                            <td><label>Naziv: </label>
+                              <span *ngIf="EditProfile == false">{{User.Naziv}}</span>
+                              <input *ngIf="EditProfile == true" type="text" [(ngModel)]="User.Naziv">
+                            </td>
+                          </tr>
+                          <tr>
+                            <td><label>Email:</label>
+                              {{User.Email}}
+                            </td>
+                          </tr>
+                          <tr>
+                            <td *ngIf=" User.tip == 'Firma'|| User.tip == 'Privatno lice'">
+                              <label>Kontakt: </label>
+                              <span *ngIf="EditProfile == false">{{User.Kontakt}}</span>
+                              <input *ngIf="EditProfile == true" type="text" [(ngModel)]="User.Kontakt">
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <label>Grad: </label>
+                             <span *ngIf="EditProfile == false">{{User.Grad}} </span>
+                             <select class= "Select_grad mx-2 my-1 p-0" placeholder="Ključne reči" style="color:#002A32"  [(ngModel)]="User.Grad" *ngIf="EditProfile == true"><!--Izmeni ime-->
+                              <option value="" hidden selected >Gradovi</option>
+                              <option value="Beograd">Beograd</option>
+                              <option value="Novi Sad">Novi Sad</option>
+                              <option value="Niš">Niš</option>
+                              <option value="Kragujevac">Kragujevac</option>
+                              <option value="Priština">Priština</option>
+                              <option value="Zrenjanin">Zrenjanin</option>
+                              <option value="Pančevo">Pančevo</option>
+                              <option value="Čačak">Čačak</option>
+                              <option value="Kruševac">Kruševac</option>
+                              <option value="Novi Pazar">Novi Pazar</option>
+                              <option value="Smederevo">Smederevo</option>
+                              <option value="Leskovac">Leskovac</option>
+                              <option value="Valjevo">Valjevo</option>
+                              <option value="Užice">Užice</option>
+                              <option value="Vranje">Vranje</option>
+                              <option value="Šabac">Šabac</option>
+                              <option value="Sombor">Sombor</option>
+                              <option value="Požarevac">Požarevac</option>
+                              <option value="Pirot">Pirot</option>
+                              <option value="Zaječar">Zaječar</option>
+                              <option value="Kikinda">Kikinda</option>
+                              <option value="Sremska">Sremska Mitrovica</option>
+                              <option value="Jagodina">Jagodina</option>
+                              <option value="Vršac">Vršac	</option>
+                              <option value="Bor">Bor</option>
+                              <option value="Prokuplje">Prokuplje</option>
+                              <option value="Loznica">Loznica</option>
+                          </select> 
+                            </td>
+                          </tr>
+                          <tr>
+                            <td *ngIf=" User.tip == 'Firma'">
+                              <label class="border-1">Lokacija:</label>
+                              <span *ngIf="EditProfile == false">{{User.Lokacija}}</span>
+                              <input *ngIf="EditProfile == true" type="text" [(ngModel)]="User.Lokacija">
+                            </td>
+                          </tr>
+                          <tr *ngIf="EditPassword === true">
+                            <td>
+                              <label class="border-1">Stara lozinka:</label>
+                              <input type="password"  [(ngModel)]="RegisterForm.Lozinka"> 
+                            </td>
+                          </tr>
+                          <tr *ngIf="EditPassword === true">
+                            <td>
+                              <label class="border-1">Nova lozinka:</label>
+                              <input type="password"  [(ngModel)]="RegisterForm.PotvrdaLozinka"> 
+                            </td>
+                          </tr>        
+                          <tr>
+                            <td>
+                              <label class="text-danger font-lexend" *ngIf="RegisterError == 12">Niste uneli ispravnu staru lozinku!</label>
+                              <label class="text-danger font-lexend" *ngIf="RegisterError == 9">Uneli ste ne ispravnu email adresu!</label>
+                              <label class="text-danger font-lexend" *ngIf="RegisterError == 10"> Uneta je vaša stara lozinka !</label>
+                              <label class="text-danger font-lexend" *ngIf="RegisterError == 14"> Unesite lozinke !</label>
+                              <button type="button" *ngIf=" EditProfile == true && EditPassword === false" class="btn btn-success mt-1 " (click)="EditProfileInfo()">Sačuvaj podatke</button>
+                              <button type="button" *ngIf=" EditProfile == true && EditPassword === false" class="btn btn-success mt-1 " (click)="ExitProfileInfo()">Vrati se nazad</button>
+                              <button type="button" *ngIf=" EditProfile == false && EditPassword === false" class="btn btn-success mt-1 " (click)="EditProfileInfo()">Izmeni podatke</button>
+                              <button type="button" *ngIf="EditProfile == false && EditPassword === false" class="btn btn-success  mt-1 mb-1" (click)="EditPass()">Izmeni lozinku</button>                 
+                              <button type="button" *ngIf="EditProfile == false && EditPassword === true" class="btn btn-success  mt-1 mb-1" (click)="EditPass()">Promeni lozinku</button>
+                              <button type="button" *ngIf="EditProfile == false && EditPassword === true" class="btn btn-success  mt-1 mb-1" (click)="EditPassChange()">Vrati se nazad</button>
+                              <button type="button" *ngIf="EditProfile == false && User.tip == 'Radnik' && EditPassword === false" class="btn btn-success mt-2" (click)="getToPage('CV')">Pogledaj CV</button>
+                              <button type="button" *ngIf="oglasDugme==true && EditProfile == false && EditPassword === false && (User.tip == 'Firma'|| User.tip == 'Privatno lice')" class="btn btn-success" (click)="dodajOglas()" >Dodaj oglas </button>
+                              <button type="button" *ngIf="oglasDugme==true && EditProfile == false && EditPassword === false && (User.tip == 'Firma'|| User.tip == 'Privatno lice')"  class="btn btn-success mt-1" (click)="pogledajOglase()">Pogledaj oglase </button>
+                              <br><button *ngIf="User.tip != 'Admin'"><fa-icon [icon]="faHandshake" class="fa-2xl" (click)="getToPage('Zahtevi')"></fa-icon></button>
+                              <button><fa-icon [icon]="faEnvelope" class="fa-2xl"(click)="getToPage('Inbox')"></fa-icon></button>
+                              <br><button type="button" *ngIf="EditPassword === false" class="btn btn-success mt-5" (click)="Logout()">Odjavi se</button>
+                            </td>
+                          </tr>
+                        </table>
+                      </div>
+                    </div>            
+               </div>
+              </div>              
+            </ul>         
+        </div>
+          <div *ngIf="CollapseMenuState == true && MenuState == false; "  class="navbar-collapse"> <!---->
+            <ul class="navbar-nav text-uppercase ms-auto pt-4 py-lg-0">
+                <li class="nav-item pt-4 me-0"><a class="nav-link" (click)="getToPage('Lista korisnika')" style="cursor: pointer;">Lista korisnika</a></li>
+                <li class="nav-item pt-4"><a class="nav-link" (click)="getToPage('Lista oglasa')" style="cursor: pointer;">Oglasi</a></li>        
+                <li class="nav-item pt-4"><a class="nav-link" *ngIf="LoginStatus === false" (click)="open(Register)" style="cursor: pointer;" >Registruj se</a></li>
+                <li class="nav-item pt-4"><a class="nav-link" *ngIf="LoginStatus === false" (click)="open(Login)" style="cursor: pointer;" >Prijavi se</a></li>
+                <div *ngIf="LoginStatus == true" class="ms-5">
+                  <div class="col">
+                    <div ngbDropdown class="d-inline-block">
+                      <button type="button" class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>
+                        <img class="img-fluid img-responsive " *ngIf= "ImageLoad == true" [src]="createImgPath(User.imgPath)" alt="..."  style="width: 60px; height: 60px;">
+                        <img class="img-fluid img-responsive " *ngIf= "ImageLoad == false" src="https://vectorified.com/images/no-profile-picture-icon-14.png" alt="..."  style="width: 60px; height: 60px;">
+                      </button>
+                      <div ngbDropdownMenu aria-labelledby="dropdownBasic1" class="dropdown-profil">
+                        <table class="table table-bordered border-light text-center ">
+                          <tr>
+                          <img class="img-fluid img-responsive " *ngIf= "ImageLoad == true" [src]="createImgPath(User.imgPath)" alt="..."  style="width: 60px; height: 60px;">
+                          <img class="img-fluid img-responsive " *ngIf= "ImageLoad == false" src="https://vectorified.com/images/no-profile-picture-icon-14.png" alt="..."  style="width: 60px; height: 60px;">
+                          </tr>
+                          <tr >
+                            <td><label>Korisničko ime</label>
+                              <span>{{User.KorisnickoIme}}</span>
+                          </tr>
+                          <tr *ngIf=" User.tip == 'Radnik' || User.tip == 'Privatno lice' || User.tip == 'Admin'">
+                            <td><label>Ime: </label>
+                            <span *ngIf="EditProfile == false">{{User.Ime}}</span>
+                              <input *ngIf="EditProfile == true" type="text" [(ngModel)]="User.Ime">
+                            </td>
+                          </tr>
+                          <tr *ngIf=" User.tip == 'Radnik' || User.tip == 'Privatno lice'|| User.tip == 'Admin'" >
+                            <td><label>Prezime: </label>
+                              <span *ngIf="EditProfile == false">{{User.Prezime}}</span>
+                              <input *ngIf="EditProfile == true" type="text" [(ngModel)]="User.Prezime">
+                          </tr>
+                          <tr *ngIf=" User.tip == 'Firma'">
+                            <td><label>Naziv: </label>
+                              <span *ngIf="EditProfile == false">{{User.Naziv}}</span>
+                              <input *ngIf="EditProfile == true" type="text" [(ngModel)]="User.Naziv">
+                            </td>
+                          </tr>
+                          <tr>
+                            <td><label>Email:</label>
+                              {{User.Email}}
+                            </td>
+                          </tr>
+                          <tr>
+                            <td *ngIf=" User.tip == 'Firma'|| User.tip == 'Privatno lice'">
+                              <label>Kontakt: </label>
+                              <span *ngIf="EditProfile == false">{{User.Kontakt}}</span>
+                              <input *ngIf="EditProfile == true" type="text" [(ngModel)]="User.Kontakt">
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <label>Grad: </label>
+                             <span *ngIf="EditProfile == false">{{User.Grad}} </span>
+                             <select class= "Select_grad mx-2 my-1 p-0" placeholder="Ključne reči" style="color:#002A32"  [(ngModel)]="User.Grad" *ngIf="EditProfile == true"><!--Izmeni ime-->
+                              <option value="" hidden selected >Gradovi</option>
+                              <option value="Beograd">Beograd</option>
+                              <option value="Novi Sad">Novi Sad</option>
+                              <option value="Niš">Niš</option>
+                              <option value="Kragujevac">Kragujevac</option>
+                              <option value="Priština">Priština</option>
+                              <option value="Zrenjanin">Zrenjanin</option>
+                              <option value="Pančevo">Pančevo</option>
+                              <option value="Čačak">Čačak</option>
+                              <option value="Kruševac">Kruševac</option>
+                              <option value="Novi Pazar">Novi Pazar</option>
+                              <option value="Smederevo">Smederevo</option>
+                              <option value="Leskovac">Leskovac</option>
+                              <option value="Valjevo">Valjevo</option>
+                              <option value="Užice">Užice</option>
+                              <option value="Vranje">Vranje</option>
+                              <option value="Šabac">Šabac</option>
+                              <option value="Sombor">Sombor</option>
+                              <option value="Požarevac">Požarevac</option>
+                              <option value="Pirot">Pirot</option>
+                              <option value="Zaječar">Zaječar</option>
+                              <option value="Kikinda">Kikinda</option>
+                              <option value="Sremska">Sremska Mitrovica</option>
+                              <option value="Jagodina">Jagodina</option>
+                              <option value="Vršac">Vršac	</option>
+                              <option value="Bor">Bor</option>
+                              <option value="Prokuplje">Prokuplje</option>
+                              <option value="Loznica">Loznica</option>
+                          </select> 
+                            </td>
+                          </tr>
+                          <tr>
+                            <td *ngIf=" User.tip == 'Firma'">
+                              <label class="border-1">Lokacija:</label>
+                              <span *ngIf="EditProfile == false">{{User.Lokacija}}</span>
+                              <input *ngIf="EditProfile == true" type="text" [(ngModel)]="User.Lokacija">
+                            </td>
+                          </tr>
+                          <tr *ngIf="EditPassword === true">
+                            <td>
+                              <label class="border-1">Stara lozinka:</label>
+                              <input type="password"  [(ngModel)]="RegisterForm.Lozinka"> 
+                            </td>
+                          </tr>
+                          <tr *ngIf="EditPassword === true">
+                            <td>
+                              <label class="border-1">Nova lozinka:</label>
+                              <input type="password"  [(ngModel)]="RegisterForm.PotvrdaLozinka"> 
+                            </td>
+                          </tr>        
+                          <tr>
+                            <td>
+                              <label class="text-danger font-lexend" *ngIf="RegisterError == 12">Niste uneli ispravnu staru lozinku!</label>
+                              <label class="text-danger font-lexend" *ngIf="RegisterError == 9">Uneli ste ne ispravnu email adresu!</label>
+                              <label class="text-danger font-lexend" *ngIf="RegisterError == 10"> Uneta je vaša stara lozinka !</label>
+                              <label class="text-danger font-lexend" *ngIf="RegisterError == 14"> Unesite lozinke !</label>
+                              <button type="button" *ngIf=" EditProfile == true && EditPassword === false" class="btn btn-success mt-1 " (click)="EditProfileInfo()">Sačuvaj podatke</button>
+                              <button type="button" *ngIf=" EditProfile == true && EditPassword === false" class="btn btn-success mt-1 " (click)="ExitProfileInfo()">Vrati se nazad</button>
+                              <button type="button" *ngIf=" EditProfile == false && EditPassword === false" class="btn btn-success mt-1 " (click)="EditProfileInfo()">Izmeni podatke</button>
+                              <button type="button" *ngIf="EditProfile == false && EditPassword === false" class="btn btn-success  mt-1 mb-1" (click)="EditPass()">Izmeni lozinku</button>                 
+                              <button type="button" *ngIf="EditProfile == false && EditPassword === true" class="btn btn-success  mt-1 mb-1" (click)="EditPass()">Promeni lozinku</button>
+                              <button type="button" *ngIf="EditProfile == false && EditPassword === true" class="btn btn-success  mt-1 mb-1" (click)="EditPassChange()">Vrati se nazad</button>
+                              <button type="button" *ngIf="EditProfile == false && User.tip == 'Radnik' && EditPassword === false" class="btn btn-success mt-2" (click)="getToPage('CV')">Pogledaj CV</button>
+                              <button type="button" *ngIf="oglasDugme==true && EditProfile == false && EditPassword === false && (User.tip == 'Firma'|| User.tip == 'Privatno lice')" class="btn btn-success" (click)="dodajOglas()" >Dodaj oglas </button>
+                              <button type="button" *ngIf="oglasDugme==true && EditProfile == false && EditPassword === false && (User.tip == 'Firma'|| User.tip == 'Privatno lice')"  class="btn btn-success mt-1" (click)="pogledajOglase()" >Pogledaj oglase </button>
+                              <br><button><fa-icon [icon]="faHandshake" class="fa-2xl" (click)="getToPage('Zahtevi')"></fa-icon></button>
+                              <button><fa-icon [icon]="faEnvelope" class="fa-2xl"(click)="getToPage('Inbox')"></fa-icon></button>
+                              <br><button type="button" *ngIf="EditPassword === false" class="btn btn-success mt-5" (click)="Logout()">Odjavi se</button>
+                            </td>
+                          </tr>
+                        </table>
+                      </div>
+                    </div>            
+               </div>
+              </div>              
+            </ul> 
+          </div>
+      </div>
+  </nav>
+  <app-index *ngIf="IndexPage"></app-index>
+     <router-outlet (activate)="onActivate($event)"></router-outlet>
+   
+    <!-- Footer-->
+    <footer class="footer py-5">
+        <div class="container mx-auto">
+            <div class="row justify-content-between">
+                <div class="col-lg-4 text-lg-start">Copyright &copy; Ignify 2022</div>
+                <div class="col-lg-4 text-lg-end">
+                    <a class="link-dark text-decoration-none me-3"  style="color: ivory;"></a>
+                    <a class="link-dark text-decoration-none me-3"   style="color: ivory;"></a>
+                    <a class="link-dark text-decoration-none " href='https://www.freepik.com/vectors/cat-design'  style="color: ivory;">Kreator artwork-a</a>          
+                </div>
+            </div>
+        </div>
+    </footer>     
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+    <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+    <!-- * *                               SB Forms JS                               * *-->
+    <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+    <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+    <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+
+</html>

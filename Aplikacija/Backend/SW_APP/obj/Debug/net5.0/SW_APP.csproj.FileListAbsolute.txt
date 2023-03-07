@@ -1,0 +1,885 @@
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\SW\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\SW_APP.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Angular sw\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+D:\SWE projekat\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+C:\Users\Jovana PC\Desktop\KONACNA_VERZIJA_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\ovde_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+D:\SWE\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+<<<<<<< HEAD
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\konacna_SW\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\slika_SW\safe_pic_sw\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+=======
+>>>>>>> 460c76714331c741e550a6981da775158b5217de
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\SW_KONACNO_KRAJ\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.xml
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CopyComplete
+C:\Users\Jovana PC\Desktop\sw_team_work_kraj\si.22.27.dvlhub\Aplikacija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\appsettings.json
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\SW_APP.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\SW_APP.exe
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\SW_APP.deps.json
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.json
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\SW_APP.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\SW_APP.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\SW_APP.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\scopedcss\bundle\SW_APP.styles.css
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\staticwebassets\SW_APP.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\ref\SW_APP.dll
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.pdb
+C:\Users\Stefan\Desktop\Projekat lokalna kopija - Copy\Backend\SW_APP\obj\Debug\net5.0\SW_APP.genruntimeconfig.cache

@@ -1,0 +1,79 @@
+
+   <div *ngIf="UserType == false"><app-index></app-index></div>
+   <div *ngIf="UserType == true">
+        <div class="p-3 mx-5 font-lexend text-primary Cv-design" s id="contCv"> <!--container-fluid-->
+            
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card" style="max-width:300px;">
+                        <img class="card-img-top flex" *ngIf="RetImg() == false"src="https://vectorified.com/images/no-profile-picture-icon-14.png" alt="Slika korisnika">
+                        <img class="card-img-top flex" *ngIf="RetImg() == true" [src]="createImgPath()" alt="Slika korisnika">
+                        <div class="card-body">
+                        <h4 class="card-title text-center">{{ImeKorisnika}} {{PrezimeKorisnika}}</h4>
+                        </div>
+                        <button *ngIf="EditMode != true" class="btn-success" (click) = "EditText()">Izmeni CV</button>
+                        <button *ngIf="EditMode != false" class="btn-success" (click) = "SaveText()">Memorisi izmene u CV-u</button>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <h5  *ngIf="ErrorState == 1">Unesite sve podatke !</h5>
+                    <h5  *ngIf="ErrorState == 2">Unesite ispravan email</h5>
+                    <h5  *ngIf="ErrorState == 3">Unete godine iskustva nisu validne !</h5>              
+                    <div class="row p-5 text-decoration-underline" >
+                        <h2>Rezime</h2>    
+                        <p *ngIf="EditMode != true">{{CV_data.licni_opis}}<p></p>
+                            <form [formGroup]="FormaRezime">
+                                <angular-editor id="VestineEditor" *ngIf="EditMode != false"   formControlName='Rezime' [ngModel]="CV_data.licni_opis"></angular-editor>
+                        </form>                             
+                    </div>
+                    <div class="row p-5 text-decoration-underline">
+                        <h2>Tehnologije</h2>
+                        <p *ngIf="EditMode != true">{{CV_data.tehnologije}}<p>
+                            <form [formGroup]="FormaTehnologije">
+                                <angular-editor id="VestineEditor" *ngIf="EditMode != false"   formControlName='Tehnologije'[ngModel]="CV_data.tehnologije" ></angular-editor>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="row p-5">
+                        <h2 class="text-decoration-underline">Kontakt</h2>
+                        <div>🌎Radna lokacija: <label *ngIf="EditMode == false">{{CV_data.adresa}}</label><input  class="mx-1" *ngIf="EditMode != false" type="text" value="{{CV_data.adresa}}" [(ngModel)]="CV_data.adresa"><label id="AdresaLabel"></label></div>
+                        <div>📱Telefon: <label *ngIf="EditMode == false">{{CV_data.telefon}}</label><input class="mx-1"*ngIf="EditMode != false" type="number" value="{{CV_data.telefon}}" [(ngModel)]="CV_data.telefon" id="Telefon"></div>
+                        <div>✉️Email: <label *ngIf="EditMode == false"> {{CV_data.email}}</label><input class="mx-2"*ngIf="EditMode != false" type="text" value="{{CV_data.email}}" id="Email" [(ngModel)]="CV_data.email"></div>
+                       
+                    </div>
+                    <div class="row p-5 text-decoration-underline">
+                        <h2>Jezici</h2>
+                        <p *ngIf="EditMode != true">{{CV_data.jezici}}</p>
+                        <form [formGroup]="FormaJezici">
+                                  <angular-editor id="JeziciEditor" *ngIf="EditMode != false" [(ngModel)]="CV_data.jezici" formControlName='Jezici'></angular-editor>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row p-5 text-decoration-underline">
+                        <h2>Iskustvo</h2>
+                        <p *ngIf="EditMode != true">{{CV_data.work_experience}}<p>
+                            <form [formGroup]="FormaIskusvo">
+                                <angular-editor id="IskustvoEditor" *ngIf="EditMode != false" [(ngModel)]="CV_data.work_experience" formControlName='Iskustvo'></angular-editor>
+                        </form>
+                    </div>
+                    <div class="row p-5 text-decoration-underline">
+                        <h2>Obrazovanje</h2>
+                        <p *ngIf="EditMode != true">{{CV_data.obrazovanje}}<p>
+                            <form [formGroup]="FormaObrazovanje">
+                                <angular-editor id="ObrazovanjeEditor" *ngIf="EditMode != false" [(ngModel)]="CV_data.obrazovanje" formControlName='Obrazovanje'></angular-editor>
+                            </form>
+                    </div>
+                    <div class="row p-5 text-decoration-underline">
+                        <h2>Godine iskustva</h2>
+                        <p *ngIf="EditMode != true">{{CV_data.godina_iskustva}}<p>
+                            <input class="mx-2"*ngIf="EditMode != false" type="number" value="{{CV_data.godina_iskustva}}" id="Godine"  [(ngModel)]="CV_data.godina_iskustva">
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </div> 
+    

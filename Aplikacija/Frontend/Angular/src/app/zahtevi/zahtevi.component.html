@@ -1,0 +1,256 @@
+<!--Poruka modal-->
+<ng-template #slanjePoruke let-modal >
+  <div class="container modal-content-CV border-0 text-start">
+      <div class="modal-header text-center justify-content-around">
+          <img  class="img-fluid img-responsive modal-logo3"src="assets/img/minProfile_logo.png" alt="...">
+          <h3 class="modal-title" style="color: white;">Posaljite poruku</h3>  
+        <button  (click)="close(slanjePoruke)" type="button" class="close border-0 btn-lg ms-5" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class=" text-center table-profiles modal-body-CV" > 
+        <table class="table tabela-profil">
+          <div>
+            <h3>Primalac</h3>
+            <p>{{Korisnik.Email}}</p>
+          </div>
+          <div>
+            <h3>Naslov poruke</h3>
+            <input class="mx-2" type="text" value="{{poruka.naslov}}" id="naslov"  [(ngModel)]="poruka.naslov">
+          </div>
+          <div>
+            <h3>Tekst poruke</h3>
+            <form [formGroup]="FormaTekst">
+              <angular-editor id="TekstEditor" [(ngModel)]="poruka.poruka" formControlName='Tekst'></angular-editor>
+      </form>
+          </div>        
+        </table>
+      <div class="modal-footer modal-footer-Cv  mt-5 d-flex d-flex justify-content-center">
+        <button type="button" class="btn btn-success my-4" (click)="posalji(poruka)">Posalji poruku</button>
+      </div>
+    </div>
+  </div>
+</ng-template>
+<!--Oglas modal-->
+<ng-template #Oglas let-modal >
+    <div class="container modal-content-Oglas border-0 text-start">
+        <div class="modal-header text-center justify-content-around">
+            <img  class="img-fluid img-responsive modal-logo3"src="assets/img/minProfile_logo.png" alt="...">
+            <h3 class="modal-title">Oglas</h3>  
+          <button  (click)="close(Oglas)" type="button" class="close-btn btn-lg ms-5 px-2 py-0" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class=" text-center table-profiles modal-body-CV border-0 m-0" > 
+          <table class="table tabela-profil ">  
+            <tr>
+              <td>
+                <div> 
+                  <h3 class="text-decoration-underline mb-5">{{SelektovaniOglas.naziv}}</h3>
+              </div>
+              </td> 
+            </tr>
+            <tr>       
+            <div class="mb-5 mt-0" >
+              <p class="h4">Opis:</p>
+              <label>{{SelektovaniOglas.opis}}</label> 
+             </div>
+            <div>  
+            </div>
+            <div class="border-top">
+              <div class="flex d-flex justify-content-center" > 
+                 <div>
+                  <label class="h5 m-0">🌎Lokacija:</label>      
+                  <label class="ms-1" style="font-size: large;">{{SelektovaniOglas.lokacija}}</label>
+                  <br>
+                  <label class="h5">💶Plata:</label>
+                  <label class="ms-1 mt-2" style="font-size: large;">{{SelektovaniOglas.plata}}€</label>
+                  <br>               
+                <label class="h5 m-0 mt-2">🏠Rad od kuće:</label>
+                <label *ngIf="SelektovaniOglas.remote_work.toLowerCase() =='da'" class="m-0">✔</label>
+                <label *ngIf="SelektovaniOglas.remote_work.toLowerCase() =='ne'" class="m-0">❌</label>
+                <br>
+                <label class="h5 mt-2">💻Tehnologija:</label>
+                <label class="ms-1" style="font-size: large;"> {{SelektovaniOglas.tehnologija }}</label>
+                  </div>
+                 </div>               
+                <div>
+              </div>       
+              <div class="d-flex justify-content-around">  
+            <div>
+              <h5 class="mt-5">🕒Vreme oglašavanja</h5>
+              <p>  {{SelektovaniOglas.vreme}}</p>
+            </div>
+          </div>
+        </div>
+            <div>        
+            </div>         
+          </table>
+        <div class="modal-footer modal-footer-Cv  mt-5 d-flex d-flex justify-content-center">
+        </div>
+      </div>
+    </div>
+  </ng-template>
+
+
+
+<ng-template #Profil let-modal>
+    <div class="modal-content  modal-content-custom border-0">
+        <div class="modal-header text-center justify-content-around">
+            <img  class="img-fluid img-responsive modal-logo3"src="assets/img/minProfile_logo.png" alt="...">
+            <h5 class="modal-title  ">Profil</h5>  
+          <button  (click)="close(Profil)" type="button" class="close border-0 btn-lg ms-5" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body text-center table-profiles">
+        <table class="table tabela-profil">
+          <tr>
+            <td class="fit-content">
+              <img  class="img-fluid img-responsive" *ngIf="Korisnik.imgPath != null" [src]="createImgPath(Korisnik.imgPath)" alt="...">
+              <img class="rounded-circle img-profile-flist" *ngIf="Korisnik.imgPath == null"  src="https://vectorified.com/images/no-profile-picture-icon-14.png" alt="profile picture" >
+            </td> 
+          </tr>
+          <tr>
+            <div>
+            {{Korisnik.Ime}} {{Korisnik.Prezime}}
+            {{Korisnik.Naziv}}
+          </div>
+          <div>
+            {{Korisnik.tip}}
+          </div>
+          <div>
+            {{Korisnik.Email}}
+          </div>
+        </table>
+          
+        </div>
+        <div class="modal-footer d-flex d-flex justify-content-center">
+          <button type="button" *ngIf="Korisnik.tip == 'Radnik'" class="btn btn-success" (click)="close(CV)" (click)="openCV(CV)">Pogledaj CV</button>
+          <button><fa-icon [icon]="faEnvelope" class="fa-2xl" (click)="openPoruka(slanjePoruke)"></fa-icon></button>
+        </div>
+      </div>
+</ng-template>
+
+<!--CV modal-->
+
+  <ng-template #CV let-modal >
+    <div class="container modal-content-CV border-0 text-start">
+        <div class="modal-header text-center justify-content-around">
+            <img  class="img-fluid img-responsive modal-logo3"src="assets/img/minProfile_logo.png" alt="...">
+            <h3 class="modal-title" style="color: white;">CV</h3>  
+          <button  (click)="close(CV)" type="button" class="close border-0 btn-lg ms-5" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class=" text-center table-profiles modal-body-CV" > 
+          <table class="table tabela-profil">
+            <tr>
+              <td class="fit-content">
+                <img  class="img-fluid img-responsive" *ngIf="Korisnik.imgPath != null" [src]="createImgPath(Korisnik.imgPath)" alt="...">
+                <img class="rounded-circle img-profile-flist" *ngIf="Korisnik.imgPath == null"  src="https://vectorified.com/images/no-profile-picture-icon-14.png" alt="profile picture" >
+                <div>     
+                  <h4>{{Korisnik.Ime}} {{Korisnik.Prezime}}</h4>
+              </div>
+              </td> 
+            </tr>
+            <tr>       
+            <div>
+              <h3>Rezime</h3>
+              <p>{{SelektovaniCV.licni_opis}}</p>
+            </div>
+            <div>
+              <h3>Iskustvo</h3>
+             <p> {{SelektovaniCV.work_experience}}</p>
+            </div>
+            <div>
+              <h3>Obrazovanje</h3>
+              <p>  {{SelektovaniCV.obrazovanje}}</p>
+            </div>
+            <div>
+              <h3>Godine iskustva</h3>
+              <p>{{SelektovaniCV.godina_iskustva}}</p>
+            </div>
+            <div>
+              <h3>Tehnologije</h3>
+              <p> {{SelektovaniCV.tehnologije }}</p>
+            </div>
+            <div>
+              <h3>Jezici</h3>
+              <p>  {{SelektovaniCV.jezici }}</p>
+            </div>
+            <div class="modal-content-CV-side-Div mt-5">
+              <h4>Radna lokacija</h4>
+              <p> {{SelektovaniCV.adresa}}</p>
+              <h4>Telefon</h4>
+              <p>{{SelektovaniCV.telefon}}</p>
+              <h3>Email</h3>
+              <p> {{SelektovaniCV.email}}</p>
+            </div>
+            <div>        
+            </div>         
+          </table>
+      </div>
+    </div>
+  </ng-template>
+
+  <div *ngIf="UserType == false"><app-index></app-index></div>
+<div *ngIf="UserType == true" >
+  <header class="shadow-lg mt-0 masthead masthead-zahtevi">
+  <div class="logo-container">
+      <a><img  class="img-fluid img-responsive"src="assets/img/Zahtev_logo.png" alt="..."> </a><br>
+    </div>
+  <p class="text-center h1 font-lexend">Lista zahteva</p><br>
+    <button class="my-5 btn-success btn-dark border-2 btn-lg " (click)="PrebaciViewTwo()" >Pristigli zahtevi</button> <!--*ngIf="ZahteviTip == false"-->
+    <button class="my-5 btn-dark border-2 btn-lg"(click)="PrebaciView()"  >Zahtevi koji prihvaceni</button> <!--*ngIf="ZahteviTip != false"-->
+</header> 
+
+
+<div>
+  
+<div class="p-5 div-zahtevi text-center p" >
+ 
+
+    <div class="table table-striped table-responsive table-striped mt-5">
+        <table class="table table-bordered table-zahtevi" *ngIf="ZahteviTip == false" style="background-color: #F1A208 ;">
+            <thead class="table-dark text-center">
+                <tr>
+                    <th>Od</th>
+                    <th>Zahtev</th>
+                    <th>Akcija</th>
+                </tr>
+            </thead>
+            <tr *ngFor="let obj of ListaZahteva">
+              <td *ngIf="obj.id_posiljaoca != null" (click)="open(Profil,obj.id_posiljaoca)" >{{obj.ime_posiljaoca}}</td>
+              <td *ngIf="obj.id_posiljaoca != null" (click)="openOglas(Oglas,obj.id_oglasa)" > {{obj.naziv_oglasa}}</td>
+              <td class="td-btn" *ngIf="obj.id_posiljaoca != null"> 
+               <div class=" pt-0">
+                   <button class="btn-accept"  *ngIf="obj.ime_posiljaoca != ' '" (click) ="Odgovori(obj.id,true)">Prihvati</button>
+               </div>
+              <div class=" pb-0 pt-0">
+                  <button class="btn-decline"  *ngIf="obj.ime_posiljaoca != ' '" (click) ="Odgovori(obj.id,false)">Odbij</button>
+              </div>
+              </td>
+            </tr>
+        </table>
+        
+       
+        <table class="table table-bordered table-zahtevi " *ngIf="ZahteviTip != false" style="background-color: #F1A208;"> 
+            <thead class="table-dark text-center">
+                <tr>
+                    <th>Od</th>
+                    <th>Zahtev</th>
+                    <th>Akcija</th>
+                </tr>
+            </thead>
+            <tr *ngFor="let obj of ListaZahteva">
+               <td *ngIf="obj.ime_primaoca != ''" (click)="open(Profil,obj.id_primaoca)" >{{obj.ime_primaoca}}</td>
+               <td  *ngIf="obj.naziv_oglasa != ''" (click)="openOglas(Oglas,obj.id_oglasa)"> {{obj.naziv_oglasa}}</td>
+               <td *ngIf="obj.naziv_oglasa != '' && obj.status == '1'"> Prihvacen ✔</td>  
+               <td *ngIf="obj.naziv_oglasa != ''&& obj.status == '0'"> Odbijen ❌</td> 
+            </tr>
+        </table>
+    </div>
+</div>
+</div>
+</div>

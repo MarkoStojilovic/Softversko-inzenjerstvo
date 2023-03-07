@@ -1,0 +1,56 @@
+.Cv-design
+{
+ background-color: #002A32;
+ border-style: solid;
+ border-color: black;
+ border-width: 3px;
+}
+
+.Cv-design .card
+{
+    color:  #ffc800;
+    background-color: #002A32;
+    border-style: solid;
+    border-color: #ffc800;
+    border-width: 1px;
+}
+
+
+.Cv-design button
+{
+background-color: #002A32 !important;
+color: #F1A208 ;
+border-style: solid;
+border-color: #F1A208 ;
+border-width: 2px;
+}
+
+.Cv-design button:hover
+{
+  background-color: #F1A208 !important;
+  color: #002A32 ;
+  border-style: solid;
+  border-color: #002A32 ;
+  border-width: 2px;
+
+}
+
+.Cv-design button:focus
+{
+  background-color: #002A32 !important;
+  color: #F1A208 ;
+  border-style: solid;
+  border-color: #F1A208 ;
+  border-width: 2px;
+  box-shadow: 0 0 8px #F1A208;
+}
+
+.Cv-design input
+{
+  margin-top: 2px;
+}
+
+h5
+{
+  color: red !important;
+}

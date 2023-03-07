@@ -1,0 +1,64 @@
+.modal-content-Oglas
+{
+    background-color: #002A32 ;
+}
+.modal-body-CV table 
+{
+    color: #F1A208 !important;
+
+}
+.modal-header
+{
+    color: #F1A208 !important;
+}
+
+table tr{
+    border:0;
+}
+
+
+h2 ,h1 ,h4,h5{
+    font-weight: 100;
+}
+
+.close-btn
+{
+    background-color: #002A32 !important;
+    color: #F1A208 ;
+    border-style: solid;
+    border-color: #F1A208 ;
+    border-width: 2px;
+    box-shadow: 0 0 8px #F1A208;
+}
+
+.close-btn :focus
+{
+    background-color: #002A32 !important;
+    color: #F1A208 ;
+    border-style: solid;
+    border-color: #F1A208 ;
+    border-width: 2px;
+    box-shadow: 0 0 8px #F1A208;
+}
+
+.btn-delete
+{
+    background-color: #960707;
+    color: white;
+}
+
+.Icon-Users-Border
+ {
+  border-style: solid;
+  border-color: black ;
+  border-width: 3px;
+ }
+
+.user-counter
+ {
+   background-color: #0FA1BF;
+  border-style: solid;
+  border-color: black ;
+  border-width: 3px;
+  color: black;
+ }
